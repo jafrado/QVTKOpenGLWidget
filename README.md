@@ -35,5 +35,6 @@ devenv /rebuild Debug qvtkopengl.sln
 
 The application will launch as below, you can use the mouse to move around the cylinder and zoom in and out with the Middle mouse wheel.
 
+![alt text](https://github.com/jafrado/QVTKOpenGLWidget/raw/master/qvtkopenglwidget.jpg "QVTKOpenGLWidget Example")
 
 
